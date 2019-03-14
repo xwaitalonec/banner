@@ -36,3 +36,5 @@ captures/
 /gradlew
 /gradlew.bat
 /workspaceandroid-banner.iml
+/app/*.iml
+/banner/*.iml
