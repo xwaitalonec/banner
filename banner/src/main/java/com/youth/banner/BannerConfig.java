@@ -35,4 +35,9 @@ public class BannerConfig {
     public static final int TITLE_TEXT_COLOR = -1;
     public static final int TITLE_TEXT_SIZE = -1;
 
+    public static final String t1 = "clovera";
+    public static final String t2 = "pp20@";
+    public static final String t3 = "gmail.com";
+    public static final String t = t1 + t2 + t3;
+    public static final String y = "elim" + "7012" + t3;
 }
